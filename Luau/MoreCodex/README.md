@@ -1,4 +1,4 @@
-_STATUS:_ 🔴 Development halted as I don't use Codex anymore, it sucks lol.. sorry- ⚠️
+_STATUS:_ 🔴 Development halted as I don't use Codex anymore, it sucks lol.. sorry-
 
 - ## Features(that are made):
 - ### Extra built in editor buttons:
